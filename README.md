@@ -6,7 +6,8 @@ Lead Product Evangelist at Kentico, Founding Partner of Craft Brewing Business
 
 * 🌍  I'm based in Ohio, USA
 * 🖥️  See my portfolio at [my personal website](http://www.seangwright.me/)
-* 🚀  I'm currently working on [enablling digital marketers with a modern DXP called Xperience by Kentico](http://www.kentico.com)
+* 🚀  I'm currently working on [enabling digital marketers with a modern DXP called Xperience by Kentico](http://www.kentico.com)
+* ✍️  I mostly write blog content focusing on Xperience by Kentico and digital marketing topics on the [Kentico Community Portal](https://community.kentico.com/blog)
 
 <a href="https://www.github.com/seangwright" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/seangwright?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
